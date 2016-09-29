@@ -1,6 +1,6 @@
 {
   "name": "einse.github.io",
-  "tagline": "Serguey Arsentev",
+  "tagline": "by Serguey Arsentev",
   "body": "Welcome! Here are my works published in the web while using Git & GitHub.\r\n\r\nSome demos: \r\n- [Text editor](http://einse.github.io/edit4/),\r\n- [Notes app](http://einse.github.io/respire/),\r\n- [Physical model](https://einse.github.io/newtonjs-demo/demo.html).\r\n\r\nMy projects and other demos are available [at my page on GitHub](https://github.com/einse).",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
